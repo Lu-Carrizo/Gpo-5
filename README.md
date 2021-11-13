@@ -33,6 +33,10 @@ agregando contenido para idenficar en html
 
 ## 1.3.1 Información y relaciones (A) (Cumplirlo respecto del orden de los encabezados)
 ##  1.4.1 Empleo del color (A)
+le agregamos un color a los links en este caso de facebook para que pudiesen destacar con la etiqueta style
+![errorcolor.png](https://github.com/Lu-Carrizo/Gpo-5/blob/main/Base/img/errorcolor.png)
+![arreglocolor.png](https://github.com/Lu-Carrizo/Gpo-5/blob/main/Base/img/arreglocolor.png)
+
 
 ## 1.4.3 Contraste (mínimo) (AA)
 error en el contraste
