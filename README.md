@@ -43,6 +43,10 @@ encontramos el error en la parte de head gracias a la herramienta wave
 ## 2.4.4 Propósito de un vínculo (en su contexto) (A)
 
 ## 	3.1.1 Idioma de la página  (A)
-agregamos el archivo "es" en la seccion del head 
+encontramos el error gracias a wave 
+![lenguaje.png.png](https://github.com/Lu-Carrizo/Gpo-5/blob/main/Base/img/lenguaje.png.png)
+ 
+agregamos el archivo "es" en la seccion del head
+
 
 
