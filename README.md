@@ -40,10 +40,9 @@ error en el contraste
 correccion del contraste
 ![reparacioncontraste.png](https://github.com/Lu-Carrizo/Gpo-5/blob/main/Base/img/reparacioncontraste.png.png)
 
-arreglamos el contraste de todas las paginas agregandoles a las etiquetas <p> style color , y en caso de los links background color y color 
 
-##1.4.4 Cambio de tamaño del texto (AA)
-  cambiamos los tamaños de
+## 1.4.4 Cambio de tamaño del texto (AA)
+ 
 
 ## 2.1.1 Teclado (A) (Pista: hay una parte de la barra de navegación que no es accesible; no la vamos a corregir, pero aquí hay info sobre la implementación correcta https://www.w3.org/TR/wai-aria-practices-1.1/examples/disclosure/disclosure-navigation.html )
 
