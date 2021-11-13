@@ -35,6 +35,10 @@ agregando contenido para idenficar en html
 ##  1.4.1 Empleo del color (A)
 
 ## 1.4.3 Contraste (mínimo) (AA)
+error en el contraste
+![errorcontraste.png](https://github.com/Lu-Carrizo/Gpo-5/blob/main/Base/img/error%20contraste.png)
+correccion del contraste
+![reparacioncontraste.png](https://github.com/Lu-Carrizo/Gpo-5/blob/main/Base/img/reparacioncontraste.png.png)
 
 arreglamos el contraste de todas las paginas agregandoles a las etiquetas <p> style color , y en caso de los links background color y color 
 
