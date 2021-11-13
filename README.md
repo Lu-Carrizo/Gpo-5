@@ -37,7 +37,13 @@ agregando contenido para idenficar en html
 ## 1.3.1 Información y relaciones (A) (Cumplirlo respecto del orden de los encabezados)
 organizamos los titulos para que tuviesen un orden para el lector
 ![estructural.png](https://github.com/Lu-Carrizo/Gpo-5/blob/main/Base/img/estructural.png)
+
+
+
+
 separamos con br los parramos para que se entendiese
+
+
 ![arreglobr.jpg](https://github.com/Lu-Carrizo/Gpo-5/blob/main/Base/img/arreglobr.jpg)
 
 
@@ -55,6 +61,7 @@ correccion del contraste
 
 
 ## 1.4.4 Cambio de tamaño del texto (AA)
+cumple con el criterio  de conformidad 
 
  
 
