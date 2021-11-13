@@ -1,4 +1,4 @@
-[![ISPC.png](https://i.postimg.cc/PqppcGcZ/ISPC.png)](https://postimg.cc/67Kp2PB5)
+
 
 # IEFI | Ética y Deontología Profesional - TSDWAD - 2021
 
@@ -36,9 +36,12 @@ agregando contenido para idenficar en html
 
 ## 1.4.3 Contraste (mínimo) (AA)
 
-## 	1.4.4 Cambio de tamaño del texto (AA)
+arreglamos el contraste de todas las paginas agregandoles a las etiquetas <p> style color , y en caso de los links background color y color 
 
-## 	2.1.1 Teclado (A) (Pista: hay una parte de la barra de navegación que no es accesible; no la vamos a corregir, pero aquí hay info sobre la implementación correcta https://www.w3.org/TR/wai-aria-practices-1.1/examples/disclosure/disclosure-navigation.html )
+##1.4.4 Cambio de tamaño del texto (AA)
+  cambiamos los tamaños de
+
+## 2.1.1 Teclado (A) (Pista: hay una parte de la barra de navegación que no es accesible; no la vamos a corregir, pero aquí hay info sobre la implementación correcta https://www.w3.org/TR/wai-aria-practices-1.1/examples/disclosure/disclosure-navigation.html )
 
 ## 2.4.2 Página titulada (A)
 encontramos el error en el titulo
