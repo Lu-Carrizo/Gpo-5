@@ -46,6 +46,7 @@ correccion del contraste
 
 
 ## 1.4.4 Cambio de tamaño del texto (AA)
+
  
 
 ## 2.1.1 Teclado (A) (Pista: hay una parte de la barra de navegación que no es accesible; no la vamos a corregir, pero aquí hay info sobre la implementación correcta https://www.w3.org/TR/wai-aria-practices-1.1/examples/disclosure/disclosure-navigation.html )
@@ -58,6 +59,8 @@ arreglamos el error en html
 
 
 ## 2.4.4 Propósito de un vínculo (en su contexto) (A)
+Le agregamos estilo al vinculo para ser legible y que quede atractivo
+![propositovinculo.png](https://github.com/Lu-Carrizo/Gpo-5/blob/main/Base/img/propositovinvulo.png)
 
 ## 	3.1.1 Idioma de la página  (A)
 encontramos el error en la parte de head gracias a la herramienta wave
