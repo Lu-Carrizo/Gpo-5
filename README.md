@@ -3,11 +3,11 @@
 # IEFI | Ética y Deontología Profesional - TSDWAD - 2021
 
 ### Integrantes:
-- carnero penelas flavio 
-- federico giordano
-- lucia carrizo
-- christian girotti
-- campos gabriel
+- CARNERO PENELAS, Flavio 
+- GIORDANO, Federico
+- CARRIZO, Lucia
+- GIROTTI, Christian
+- CAMPOS, Gabriel
 
 
 ### Profesor:
@@ -43,10 +43,6 @@ encontramos el error en la parte de head gracias a la herramienta wave
 ## 2.4.4 Propósito de un vínculo (en su contexto) (A)
 
 ## 	3.1.1 Idioma de la página  (A)
-encontramos el error gracias a wave 
-![lenguaje.png.png](https://github.com/Lu-Carrizo/Gpo-5/blob/main/Base/img/lenguaje.png.png)
- 
-agregamos el archivo "es" en la seccion del head
-
+agregamos el archivo "es" en la seccion del head 
 
 
