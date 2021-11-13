@@ -18,6 +18,10 @@
 
 ## 1.1.1 Contenido no textual (A)
 se agrego en cada imagen una descripcion de cada una para identificarla
+![errotextual.png](https://github.com/Lu-Carrizo/Gpo-5/blob/main/Base/img/errortextual.png)
+agregando contenido para idenficar en html
+![arreglotextual.png](https://github.com/Lu-Carrizo/Gpo-5/blob/main/Base/img/arreglotextual.png)
+
 
 
 
