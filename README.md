@@ -38,6 +38,9 @@ se agrego en cada imagen una descripcion de cada una para identificarla
 
 ## 2.4.2 Página titulada (A)
 encontramos el error en la parte de head gracias a la herramienta wave
+![lenguaje.png.png](https://github.com/Lu-Carrizo/Gpo-5/blob/main/Base/img/lenguaje.png.png)
+reparandola en html
+![arreglolenguaje.png.jpg](https://github.com/Lu-Carrizo/Gpo-5/blob/main/Base/img/arreglolenguaje.png.jpg)
   
 
 ## 2.4.4 Propósito de un vínculo (en su contexto) (A)
