@@ -65,7 +65,8 @@ cumple con el criterio  de conformidad
 
  
 
-## 2.1.1 Teclado (A) (Pista: hay una parte de la barra de navegación que no es accesible; no la vamos a corregir, pero aquí hay info sobre la implementación correcta https://www.w3.org/TR/wai-aria-practices-1.1/examples/disclosure/disclosure-navigation.html )
+## 2.1.1 Teclado (A) 
+no encontramos el error del navegador .
 
 ## 2.4.2 Página titulada (A)
 encontramos el error en el titulo
